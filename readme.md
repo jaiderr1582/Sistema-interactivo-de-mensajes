@@ -22,6 +22,7 @@ el archivo html tiene una estructura semantica (header,main, div,section,)
 
 ## Clonar repo
 
+git clone https://github.com/jaiderr1582/Sistema-interactivo-de-mensajes.git
 
 ## Estructura del proyecto
 
