@@ -20,6 +20,8 @@ el archivo html tiene una estructura semantica (header,main, div,section,)
 
 4. mire el mensaje en la consola
 
+## Clonar repo
+
 
 ## Estructura del proyecto
 
@@ -27,5 +29,16 @@ javascript/
   └─Training M3W1
    └─index.html
    └─readme.md
-   └─sistema_interactivo.js
-   └─styles.css
+    └─scr
+      └─css
+        └─styles.css
+      └─js
+       └─sistema_interactivo.js
+
+
+## Información del coder
+
+Nombre = Jaider Yesid Rodriguez Robles
+Clan = Sierra
+email = jaideryesid28@gmail.com
+documento = **********
